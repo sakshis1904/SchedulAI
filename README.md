@@ -2,6 +2,10 @@
 
 SchedulAI is a backend service that extracts appointment details from text or images using OCR (Tesseract.js) and AI (Gemini), normalizes the data, and returns a structured JSON response.
 
+## Live Demo
+🔗 **Deployed Link:**  
+https://schedulai-d1xe.onrender.com/
+
 ## Features
 - **OCR Support**: Extracts text from uploaded images.
 - **AI Extraction**: Uses Google Gemini to find date, time, and department.
