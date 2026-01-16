@@ -22,8 +22,10 @@ https://schedulai-d1xe.onrender.com/
 ## Screenshots
 
 <img width="1600" height="895" alt="image" src="https://github.com/user-attachments/assets/fdd7fdc7-c5ed-4e4f-a0c1-25aa70d42925" />
+</br>
 
 <img width="1599" height="889" alt="image" src="https://github.com/user-attachments/assets/9fbdf660-c730-40ed-9376-5334cc78ec5e" />
+</br>
 
 <img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/cf8176aa-78fd-46e8-a3d5-2e4cda5ff222" />
 
