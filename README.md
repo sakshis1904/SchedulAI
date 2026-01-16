@@ -94,8 +94,3 @@ curl -X POST http://localhost:3000/api/schedule \
 }
 ```
 
-## Project Structure
-- `src/controllers`: Request handlers
-- `src/services`: Business logic (OCR, AI, Normalization)
-- `src/routes`: API definitions
-- `src/utils`: Helpers (Validation, Error Handling)
