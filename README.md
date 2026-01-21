@@ -4,7 +4,7 @@ SchedulAI is a backend service that extracts appointment details from text or im
 
 ## Live Demo
 🔗 **Deployed Link:**  
-https://schedulai-d1xe.onrender.com/
+                                                            https://schedulai-d1xe.onrender.com/
 
 ## Features
 - **OCR Support**: Extracts text from uploaded images.
